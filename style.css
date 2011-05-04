@@ -1,0 +1,22 @@
+
+
+#banana, #der {
+	color: #000000;
+}
+
+body.dwep {
+	font-size: 40px;
+	font-family: verdana; 
+}
+
+
+.ilovelamp {
+	background: url('herpa derp');
+}
+
+
+p {
+	font-size: /*body.dwep>font-size*/;
+	font-family: verdana;
+	color: #000000;
+}
