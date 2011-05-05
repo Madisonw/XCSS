@@ -10,6 +10,15 @@
 XCSS.init("stylesheet1.css","stylesheet2.css");
 </code>
 
+<p>Also, you should TOTALLY write this in your <code><head></code></p>
+
+<code>
+	<noscript>
+			<link media="all" type="text/css" rel="stylesheet" href="stylesheet1.css" />
+			<link media="all" type="text/css" rel="stylesheet" href="stylesheet2.css" />
+	</noscript>
+</code>
+
 <h2>Currently, the API looks like this:</h2>
 
 <hr />
