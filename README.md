@@ -1,5 +1,5 @@
 
-XCSS === Extended CSS.
+<h1>XCSS === Extended CSS.</h1>
 
 XCSS is meant to be used actively by Javascript as an extra feature of CSS.
 
