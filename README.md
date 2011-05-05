@@ -3,6 +3,8 @@
 
 <p>XCSS is meant to be used actively by Javascript as an extra feature of CSS.</p>
 
+<p><i>XCSS is very young and immature and should not be used in production currently</i>. The CSS parser is not done and needs work. If you're inclined I'd love some help in this area.</p>
+
 <p>You feed it delicious CSS files and it parses the CSS into Javascript objects. As you use the API to change entire rules or even properties, XCSS will update those rules live.</p>
 
 <p>You should initialize XCSS like this:</p>
